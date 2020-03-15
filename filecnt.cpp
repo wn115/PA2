@@ -6,6 +6,7 @@
 #include "version.h"
 
 // this program has a makefile
+// git
 //
 // This file is a command used in Linux that can take one argument that is the path of a directory.
 // This file is used for counting the total number of directories, files and bytes in directory
