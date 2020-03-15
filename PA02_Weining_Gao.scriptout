@@ -1,0 +1,22 @@
+Script started on 2020-02-25 23:28:51-0600
+]0;weining@wxg180004: ~[01;32mweining@wxg180004[00m:[01;34m~[00m$ gcc filecnp[Kt.cpp [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksort -r days[3Pdays-n days[K[K[K[K[K[K[K[K[K[K[K[Kgcc filecnp.cpo[Kp -lstdc++ -o filecnp[Kt[C[1P[1@t[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;weining@wxg180004: ~[01;32mweining@wxg180004[00m:[01;34m~[00m$ g++ -o filecnt.cpp filecnt[K[K[K[K[K[K[K[K[K[K[K[K[Kt filecnt.cpp
+]0;weining@wxg180004: ~[01;32mweining@wxg180004[00m:[01;34m~[00m$ g++ -o filecnt filecnt.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccc filecnt.cpp -lstdc++ -o filecnt[C[C[C[1P[1P[1P[1@d[1@i[1@s[1@p[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[Kdisp
+]0;weining@wxg180004: ~[01;32mweining@wxg180004[00m:[01;34m~[00m$ gcc filedisp.cpp -lstdc++ -o filedisp[C[11P++ -o filecnt filecnt.cpp[C[C[1P filecnt.cpp[1P filecnt.cpp[1P filecnt.cppd filecnt.cppi filecnt.cpps filecnt.cppp filecnt.cpp[C[C[C[C[C[C[C[C[1P.cpp[1P.cpp[1P.cppd.cppi.cpps.cppp.cpp
+]0;weining@wxg180004: ~[01;32mweining@wxg180004[00m:[01;34m~[00m$ ./filecnt /us[K[K[K/[K[K
+The pathname is incorrect.
+]0;weining@wxg180004: ~[01;32mweining@wxg180004[00m:[01;34m~[00m$ ./filecnt /usr/share|./filedisp -e
+The option you provide is invalid
+]0;weining@wxg180004: ~[01;32mweining@wxg180004[00m:[01;34m~[00m$ ./filecnt /usr/share|./filedisp -e[Kd
+The total number of directories in directory /usr/share is: 10708.
+
+]0;weining@wxg180004: ~[01;32mweining@wxg180004[00m:[01;34m~[00m$ ./filecnt /usr/share|./filedisp -d[Kb
+The total number of bytes in directory /usr/share is: 1754247555.
+
+]0;weining@wxg180004: ~[01;32mweining@wxg180004[00m:[01;34m~[00m$ ./filecnt /usr/share|./filedisp -b[Kf
+The total number of files in directory /usr/share is: 115671.
+
+]0;weining@wxg180004: ~[01;32mweining@wxg180004[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-02-25 23:32:27-0600

@@ -1,0 +1,18 @@
+
+
+
+versionDISP: filedisp.o version.o
+	g++ filedisp.o version.o -o versionDISP
+
+filecnt.o: filecnt.cpp
+	g++ -c filecnt.cpp
+
+filedisp.o: filedisp.cpp
+	g++ -c filedisp.cpp
+
+version.o: version.cpp
+	g++ -c version.cpp
+
+
+
+
